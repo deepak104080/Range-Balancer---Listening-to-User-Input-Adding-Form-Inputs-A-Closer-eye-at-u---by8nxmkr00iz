@@ -11,7 +11,6 @@ useEffect(() => {
   console.log(maxSum, range1, range2);
 })
 
-
   return (
     <>
       <div id='max-sum-holder'>
@@ -32,6 +31,5 @@ useEffect(() => {
   )
     
 }
-
 
 export default App;
